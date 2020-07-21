@@ -41,6 +41,7 @@ const App: () => React$Node = () => {
           <View style={styles.body}>
             <View style={styles.sectionContainer}>
               <Text style={styles.sectionTitle}>Imam Septian Adi Wijaya</Text>
+              <Text style={styles.sectionTitle}>A11.2017.10240</Text>
               <Text style={styles.sectionDescription}>
                 Edit <Text style={styles.highlight}>App.js</Text> to change this
                 screen and then come back to see your edits.
